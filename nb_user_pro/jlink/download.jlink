@@ -1,0 +1,5 @@
+h
+loadfile E:\workspace\nb_user_pro\Debug\nb_user_pro.bin 0x08100000
+r
+g
+q
